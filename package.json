@@ -4,7 +4,6 @@
 		"dev": "vite",
 		"build": "vite build",
 		"serve": "vite preview",
-		"update": "yarn global add npm-check-updates && ncu -u"
 	},
 	"dependencies": {
 		"react": "^17.0.2",
